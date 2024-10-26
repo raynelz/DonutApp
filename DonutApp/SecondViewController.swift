@@ -28,7 +28,6 @@ final class SecondViewController: UIViewController {
 		embedViews()
 		setupLayout()
 		setupAppearance()
-		setupBehavior()
 	}
 	
 	override func viewDidLayoutSubviews() {
